@@ -1,4 +1,4 @@
-<img src="https://github.com/Sergio-Bejar/Sergio-Bejar/">
+<img src="https://github.com/Sergio-Bejar/Sergio-Bejar/rworldmap_Spatial_Ws copy.png">
 
 ### Hi there 👋
 
