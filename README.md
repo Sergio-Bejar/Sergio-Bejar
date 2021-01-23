@@ -8,4 +8,4 @@ My interests here are varied, but I use Github for the following stuff you may f
 
 | Package                                                          | Description                                                                          |
 | -----------------------------------------------------------------| ------------------------------------------------------------------------------------ |
-| [`BayesSPsurv`](https://github.com/Nicolas-Schmidt/BayesSPsurv)  | Bayesian spatial split-population (SP) survival models for clustered event processes.|
+| [`BayesSPsurv`](https://github.com/Nicolas-Schmidt/BayesSPsurv)  | Bayesian spatial split-population (SP) survival models for clustered event processes. [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/BayesMFSurv)](https://cran.r-project.org/package=BayesSPsurv)|
