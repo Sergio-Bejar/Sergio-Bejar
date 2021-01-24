@@ -13,4 +13,4 @@ My interests here are varied, but I use Github for the following stuff you may f
 
 **Research:** I am relatively new on Github, but I plan to start sharing here the repos of my solo/lead publications. 
 
-**Teaching:** 
+**Teaching:** [Comparative Politics](https://github.com/Sergio-Bejar/POLS2), [International Political Economy](https://github.com/Sergio-Bejar/POLS155), [Research Methods](https://github.com/Sergio-Bejar/POLS100M). 
