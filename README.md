@@ -13,6 +13,6 @@ My interests here are varied, but I use Github for the following stuff you may f
 
 **Research:** I am relatively new on Github, but I plan to start sharing here the repos of my solo/lead publications. 
 
-**Teaching:** [Comparative Politics](https://github.com/Sergio-Bejar/POLS2), [International Political Economy](https://github.com/Sergio-Bejar/POLS155), [Research Methods](https://github.com/Sergio-Bejar/POLS100M). 
+**Teaching:** [Introduction to Comparative Politics](https://github.com/Sergio-Bejar/POLS2), [International Political Economy](https://github.com/Sergio-Bejar/POLS155), [Research Methods](https://github.com/Sergio-Bejar/POLS100M). 
 
 **Consulting:** I have done a few data science consulting projects oh the side.  Here is a sample: [Feel like working?](http://www.sergiobejar.com/consultingdata-science.html).
