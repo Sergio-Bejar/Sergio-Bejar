@@ -11,6 +11,11 @@ My interests here are varied, but I use Github for the following stuff you may f
 | [`BayesSPsurv`](https://github.com/Nicolas-Schmidt/BayesSPsurv)  | Bayesian spatial split-population (SP) survival models for clustered event processes. [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/BayesSPsurv)](https://cran.r-project.org/package=BayesSPsurv)|
 | [`BayesMFSurv`](https://github.com/Nicolas-Schmidt/BayesMFSurv)  | Split-population (SP) survival models with and wihout misclassified failured events. [![CRAN\_Status\_Badge](https://www.r-pkg.org/badges/version/BayesMFSurv)](https://cran.r-project.org/package=BayesMFSurv) [![DOI](https://joss.theoj.org/papers/10.21105/joss.02164/status.svg)](https://doi.org/10.21105/joss.02164) |
 
+**Python Packages:** You might find the following packages useful:
+| Package                                                          | Description                                                                          |
+| -----------------------------------------------------------------| ------------------------------------------------------------------------------------ |
+|[`IDCeMPy`](https://pypi.org/project/idcempy/)                    | Inflated Discrete Choice Models                                                      |
+
 **Research:** I am relatively new on Github, but I plan to start sharing here the repos of my solo/lead publications. 
 
 **Teaching:** [Introduction to Comparative Politics](https://github.com/Sergio-Bejar/POLS2), [International Political Economy](https://github.com/Sergio-Bejar/POLS155), [Research Methods](https://github.com/Sergio-Bejar/POLS100M). 
