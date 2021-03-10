@@ -4,7 +4,7 @@ My name is Sergio Béjar and I am an Associate Professor of Political Science cu
 
 My interests here are varied, but I use Github for the following stuff you may find useful:
 
-**R Packages:** I have co-authored the following R packages that may interest you:
+**R Packages:** I have co-authored the following R packages:
 
 | Package                                                          | Description                                                                          |
 | -----------------------------------------------------------------| ------------------------------------------------------------------------------------ |
