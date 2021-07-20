@@ -14,7 +14,7 @@ My interests here are varied, but I use Github for the following stuff you may f
 **Python Packages:** You might find the following Python packages useful:
 | Package                                                          | Description                                                                          |
 | -----------------------------------------------------------------| ------------------------------------------------------------------------------------ |
-|[`IDCeMPy`](https://pypi.org/project/idcempy/)                    | Fits a number of Inflated Discrete Choice Models (ZIOP/C, MIOP/C, GIMNL). First released on 2/16/2021. [![PyPI download month](https://img.shields.io/pypi/dm/IDCeMPy.svg)](https://pypi.python.org/pypi/IDCeMPy/)  [![DOI](https://joss.theoj.org/papers/10.21105/joss.03322/status.svg)](https://doi.org/10.21105/joss.03322)
+|[`IDCeMPy`](https://pypi.org/project/idcempy/)                    | Fits a number of Inflated Discrete Choice Models (ZIOP/C, MIOP/C, GIMNL). [![DOI](https://joss.theoj.org/papers/10.21105/joss.03322/status.svg)](https://doi.org/10.21105/joss.03322)[![PyPI download month](https://img.shields.io/pypi/dm/IDCeMPy.svg)](https://pypi.python.org/pypi/IDCeMPy/)  
                                                |
 
 **Research:** I am relatively new on Github, but I plan to start sharing here the repos of my solo/lead publications. 
