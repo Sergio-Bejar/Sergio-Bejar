@@ -16,7 +16,7 @@ My interests here are varied, but I use Github for the following stuff you may f
 | -----------------------------------------------------------------| ------------------------------------------------------------------------------------ |
 |[`IDCeMPy`](https://pypi.org/project/idcempy/)                    | Fits a number of Inflated Discrete Choice Models (ZIOP/C, MIOP/C, GIMNL).![DOI](https://joss.theoj.org/papers/10.21105/joss.03322/status.svg) ![Downloads](https://pepy.tech/badge/idcempy) |
 
-**Research:** I am relatively new on Github, but I plan to start sharing here the repos of my solo/lead publications. 
+**Research:** I plan to start sharing here the repos of my solo and co-authored publications. 
 
 **Teaching:** [Introduction to Comparative Politics](https://github.com/Sergio-Bejar/POLS2), [International Political Economy](https://github.com/Sergio-Bejar/POLS155), [Research Methods](https://github.com/Sergio-Bejar/POLS100M). 
 
