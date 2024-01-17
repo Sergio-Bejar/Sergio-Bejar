@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sergio Béjar and I am an Associate Professor of Political Science currently in the [Department of Political Science](https://www.sjsu.edu/polisci/) at [San José State University](https://sjsu.edu/).  My research and teaching interests focus on the broad intersection of Comparative Politics, Political Behavior and Political Methodology. 
+My name is Sergio Béjar and I am a Professor of Political Science currently in the [Department of Political Studies at CIDE, Mexico](https://www.cide.edu/).  My research and teaching interests focus on the broad intersection of Comparative Politics, Political Economy, and Political Methodology. 
 
 My interests here are varied, but I use Github for the following stuff you may find useful:
 
@@ -20,4 +20,3 @@ My interests here are varied, but I use Github for the following stuff you may f
 
 **Teaching:** [Introduction to Comparative Politics](https://github.com/Sergio-Bejar/POLS2), [International Political Economy](https://github.com/Sergio-Bejar/POLS155), [Research Methods](https://github.com/Sergio-Bejar/POLS100M). 
 
-**Consulting:** I have also done a few data science consulting projects.  This is a sample: [Feel like working?](http://www.sergiobejar.com/consultingdata-science.html).
