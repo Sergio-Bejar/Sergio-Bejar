@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sergio Béjar and I am a Professor of Political Science currently in the [Department of Political Studies at CIDE, Mexico](https://www.cide.edu/).  My research and teaching interests focus on the broad intersection of Comparative Politics, Political Economy, and Political Methodology. 
+My name is Sergio Béjar, and I am a Professor of Political Science currently in the [Department of Political Studies at CIDE, Mexico](https://www.cide.edu/).  My research and teaching interests focus on the broad intersection of Comparative Politics, Political Economy, and Political Methodology. 
 
 My interests here are varied, but I use Github for the following stuff you may find useful:
 
