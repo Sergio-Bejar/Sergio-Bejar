@@ -15,6 +15,8 @@
   <a href="https://bejarlopez.com"><img src="https://img.shields.io/badge/bejarlopez.com-006847?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
+Professor of Political Science at CIDE. I study how electoral competition shapes state capacity and public spending in developing democracies. My methodological work focuses on survival models, discrete choice, and Bayesian estimation. This page collects the software packages and course materials I maintain on GitHub.
+
 ---
 
 ### ![R](https://img.shields.io/badge/-R%20Packages-006847?style=flat-square&logo=r&logoColor=white)
