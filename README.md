@@ -15,7 +15,7 @@
   <a href="https://bejarlopez.com"><img src="https://img.shields.io/badge/bejarlopez.com-006847?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
-Professor of Political Science at CIDE. I study how electoral competition shapes state capacity and public spending in developing democracies. My methodological work focuses on survival models, discrete choice, and Bayesian estimation. This page collects the software packages and course materials I maintain on GitHub.
+Professor of Political Science at CIDE. My research sits at the intersection of comparative politics, political economy, political behavior, and quantitative methodology. I study how political competition shapes democratic accountability and the political economy of governance --- with ongoing work on affective polarization, subnational fiscal politics, and electoral dynamics across Latin America. I also develop open-source statistical software for survival analysis, discrete choice, and Bayesian estimation. This page collects the packages and course materials I maintain on GitHub.
 
 ---
 
