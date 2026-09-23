@@ -4,7 +4,14 @@
 
 Comparative politics · Political economy · Political behavior · Quantitative methodology
 
-[Website](https://bejarlopez.com) · [Research software](#research-software) · [Teaching](#teaching)
+[![Academic website](https://img.shields.io/badge/Academic_website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bejarlopez.com)
+
+![Comparative politics](https://img.shields.io/badge/Comparative_politics-1D4ED8?style=flat-square)
+![Political economy](https://img.shields.io/badge/Political_economy-1D4ED8?style=flat-square)
+![Political behavior](https://img.shields.io/badge/Political_behavior-0F766E?style=flat-square)
+![Quantitative methods](https://img.shields.io/badge/Quantitative_methods-0F766E?style=flat-square)
+
+[Research software](#research-software) · [Teaching](#teaching) · [Methods and tools](#methods-and-tools)
 
 I study how political competition shapes democratic accountability and the political economy of governance. My current work examines affective polarization, subnational fiscal politics, state capacity, and electoral dynamics across Latin America.
 
@@ -18,13 +25,16 @@ I also develop open-source statistical software for survival analysis, discrete 
 
 Bayesian spatial split-population survival models for clustered event processes.
 
-[View on CRAN](https://cran.r-project.org/package=BayesSPsurv)
+[![BayesSPsurv version on CRAN](https://www.r-pkg.org/badges/version/BayesSPsurv)](https://cran.r-project.org/package=BayesSPsurv)
+[![Total BayesSPsurv downloads from CRAN](https://cranlogs.r-pkg.org/badges/grand-total/BayesSPsurv?color=0F766E)](https://cranlogs.r-pkg.org/badges/grand-total/BayesSPsurv)
 
 #### [BayesMFSurv](https://github.com/Nicolas-Schmidt/BayesMFSurv)
 
 Bayesian split-population survival models with and without misclassified failure events.
 
-[View on CRAN](https://cran.r-project.org/package=BayesMFSurv) · [JOSS article](https://doi.org/10.21105/joss.02164)
+[![BayesMFSurv version on CRAN](https://www.r-pkg.org/badges/version/BayesMFSurv)](https://cran.r-project.org/package=BayesMFSurv)
+[![Total BayesMFSurv downloads from CRAN](https://cranlogs.r-pkg.org/badges/grand-total/BayesMFSurv?color=0F766E)](https://cranlogs.r-pkg.org/badges/grand-total/BayesMFSurv)
+[![BayesMFSurv article in JOSS](https://joss.theoj.org/papers/10.21105/joss.02164/status.svg)](https://doi.org/10.21105/joss.02164)
 
 ### Python
 
@@ -32,7 +42,8 @@ Bayesian split-population survival models with and without misclassified failure
 
 Tools for inflated discrete-choice models, including ZIOP/C, MIOP/C, and GIMNL.
 
-[View on PyPI](https://pypi.org/project/idcempy/) · [JOSS article](https://doi.org/10.21105/joss.03322)
+[![IDCeMPy downloads](https://static.pepy.tech/badge/idcempy?color=0F766E)](https://pepy.tech/project/idcempy)
+[![IDCeMPy article in JOSS](https://joss.theoj.org/papers/10.21105/joss.03322/status.svg)](https://doi.org/10.21105/joss.03322)
 
 ## Teaching
 
